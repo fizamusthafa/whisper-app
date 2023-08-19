@@ -1,0 +1,4 @@
+streamlit
+
+#local packages
+-e .

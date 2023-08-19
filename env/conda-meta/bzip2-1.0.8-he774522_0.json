@@ -1,0 +1,93 @@
+{
+  "build": "he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\fizam\\anaconda3\\pkgs\\bzip2-1.0.8-he774522_0",
+  "files": [
+    "Library/bin/bzip2.dll",
+    "Library/bin/libbz2.dll",
+    "Library/include/bzlib.h",
+    "Library/lib/bzip2.lib",
+    "Library/lib/bzip2_static.lib",
+    "Library/lib/libbz2.lib",
+    "Library/lib/libbz2_static.lib",
+    ".nonadmin"
+  ],
+  "fn": "bzip2-1.0.8-he774522_0.conda",
+  "legacy_bz2_md5": "8f8069ce8c9eff1b0f124de2c0a63b86",
+  "legacy_bz2_size": 154105,
+  "license": "bzip2",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\fizam\\anaconda3\\pkgs\\bzip2-1.0.8-he774522_0",
+    "type": 1
+  },
+  "md5": "acfdd6cfa52a831a43b88126e68b0cf9",
+  "name": "bzip2",
+  "package_tarball_full_path": "C:\\Users\\fizam\\anaconda3\\pkgs\\bzip2-1.0.8-he774522_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/bzip2.dll",
+        "path_type": "hardlink",
+        "sha256": "e4ba6a29fe1611815b74da3fd55bd657564edafac7a9907b0819ff8fb091eed5",
+        "sha256_in_prefix": "e4ba6a29fe1611815b74da3fd55bd657564edafac7a9907b0819ff8fb091eed5",
+        "size_in_bytes": 187904
+      },
+      {
+        "_path": "Library/bin/libbz2.dll",
+        "path_type": "hardlink",
+        "sha256": "e4ba6a29fe1611815b74da3fd55bd657564edafac7a9907b0819ff8fb091eed5",
+        "sha256_in_prefix": "e4ba6a29fe1611815b74da3fd55bd657564edafac7a9907b0819ff8fb091eed5",
+        "size_in_bytes": 187904
+      },
+      {
+        "_path": "Library/include/bzlib.h",
+        "path_type": "hardlink",
+        "sha256": "6ac62e811669598ee30c9e1c379b9e627f6ff17a5a3dc1e0b4fa8b8ea75e580d",
+        "sha256_in_prefix": "6ac62e811669598ee30c9e1c379b9e627f6ff17a5a3dc1e0b4fa8b8ea75e580d",
+        "size_in_bytes": 6240
+      },
+      {
+        "_path": "Library/lib/bzip2.lib",
+        "path_type": "hardlink",
+        "sha256": "95c60e4ed8d45b66207236514f3a4dcae493c68976b7bbd83aea7ab77f30c34e",
+        "sha256_in_prefix": "95c60e4ed8d45b66207236514f3a4dcae493c68976b7bbd83aea7ab77f30c34e",
+        "size_in_bytes": 6328
+      },
+      {
+        "_path": "Library/lib/bzip2_static.lib",
+        "path_type": "hardlink",
+        "sha256": "e8cbb28ebc229708036df0d1fd2889fc8ddf4a77d0a5be0c84357ff038a4b505",
+        "sha256_in_prefix": "e8cbb28ebc229708036df0d1fd2889fc8ddf4a77d0a5be0c84357ff038a4b505",
+        "size_in_bytes": 96644
+      },
+      {
+        "_path": "Library/lib/libbz2.lib",
+        "path_type": "hardlink",
+        "sha256": "95c60e4ed8d45b66207236514f3a4dcae493c68976b7bbd83aea7ab77f30c34e",
+        "sha256_in_prefix": "95c60e4ed8d45b66207236514f3a4dcae493c68976b7bbd83aea7ab77f30c34e",
+        "size_in_bytes": 6328
+      },
+      {
+        "_path": "Library/lib/libbz2_static.lib",
+        "path_type": "hardlink",
+        "sha256": "e8cbb28ebc229708036df0d1fd2889fc8ddf4a77d0a5be0c84357ff038a4b505",
+        "sha256_in_prefix": "e8cbb28ebc229708036df0d1fd2889fc8ddf4a77d0a5be0c84357ff038a4b505",
+        "size_in_bytes": 96644
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "01bd8a4eba9a7962e6d446e98e089ee4beb5de7db89a11f1249ec173f392cc61",
+  "size": 115376,
+  "subdir": "win-64",
+  "timestamp": 1563219293348,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bzip2-1.0.8-he774522_0.conda",
+  "version": "1.0.8"
+}
