@@ -1,2 +1,2 @@
-streamlit
-openai-whisper
+streamlit>=1.30.0
+openai-whisper>=20231117
